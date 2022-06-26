@@ -9,7 +9,9 @@ In the App, users able to create their own topics, quizzes for those topics, and
 Users will also be able to interact with their quizzes by flipping flashcards over.
 
 ------------
-[Deployed App]( "Deployed App")
+[Deployed App](https://bildii-flashcards.netlify.app/ "Deployed App")
+
+https://bildii-flashcards.netlify.app/
 
 ------------
 ### Technologies
